@@ -1,2 +1,3 @@
-# VSOS-2
-VerySimpleOperatingSystem2
+# PocketOS
+1 file
+1 browser based os
